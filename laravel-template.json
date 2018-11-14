@@ -4,7 +4,7 @@
   "metadata": {
     "name": "laravel-oracle-persistent",
     "annotations": {
-      "openshift.io/display-name": "Laravel FNDE",
+      "openshift.io/display-name": "Laravel",
       "description": "An example Laravel application",
       "tags": "quickstart,php,laravel,oracle",
       "iconClass": "icon-laravel"
